@@ -36,12 +36,13 @@
 		<meta property="term" refines="#subject-1">SUBJECT_1_LCSH_ID</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">SUBJECT_2_LCSH_ID</meta>
-		<meta property="schema:genre">TAG</meta>
+		<meta property="schema:genre">Nonfiction</meta>
+		<meta property="schema:genre">Satire</meta>
 		<meta property="schema:abstract">ABSTRACT</meta>
 		<dc:description>
 			DESCRIPTION
 		</dc:description>
-		<dc:language>LANG</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>TRANSCRIPTION_URL</dc:source>
 		<dc:source>PAGE_SCANS_URL</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
@@ -52,7 +53,6 @@
 		<link href="https://github.com/standardebooks/jonathan-swift_essays" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Jonathan Swift</dc:creator>
 		<meta property="file-as" refines="#author">Swift, Jonathan</meta>
-		<meta property="schema:alternateName" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<link href="https://en.wikipedia.org/wiki/Jonathan_Swift" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n78096912.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -73,14 +73,15 @@
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
+		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
 		<link href="PRODUCER_URL" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
