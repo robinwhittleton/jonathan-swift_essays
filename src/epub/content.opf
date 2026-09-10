@@ -43,8 +43,35 @@
 			DESCRIPTION
 		</dc:description>
 		<dc:language>en-GB</dc:language>
-		<dc:source>TRANSCRIPTION_URL</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
+		<!-- Vol 1: A Discourse Concerning the Mechanical Operation of the Spirit (1710) -->
+		<dc:source>https://archive.org/details/bim_eighteenth-century_the-works-of-dr-jonatha_swift-jonathan_1766_1</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/The_Works_of_the_Rev._Jonathan_Swift/Volume_2/A_Discourse_concerning_the_Mechanical_Operation_of_the_Spirit</dc:source>
+		<!-- Vol 3: A Meditation Upon a Broomstick (1711), The Abolishing of Christianity in England (1708), A Tritical Essay upon the Faculties of the Mind (1708), A Proposal for Correcting, Improving, and Ascertaining the English Tongue (1712), Thoughts on Various Subjects (1713) -->
+		<dc:source>https://archive.org/details/bim_eighteenth-century_the-works-of-dr-jonatha_swift-jonathan_1766_3</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/623</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/The_Works_of_the_Rev._Jonathan_Swift/Volume_5/A_Tritical_Essay_Upon_the_Faculties_of_the_Mind</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/The_Works_of_the_Rev._Jonathan_Swift/Volume_5/A_Proposal_For_Correcting,_Improving,_and_Ascertaining_the_English_Tongue</dc:source>
+		<!-- Vol 4: An Essay on Modern Education (c. 1720), A Modest Proposal (1729), An Essay on the Fates of Clergymen (1728), The Wonderful Wonder of Wonders (1721), The Wonder of All the Wonders (1721) -->
+		<dc:source>https://archive.org/details/bim_eighteenth-century_the-works-of-dr-jonatha_swift-jonathan_1766_4</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/1080</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/The_Works_of_the_Rev._Jonathan_Swift/Volume_5/An_Essay_on_Modern_Education</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/The_Works_of_the_Rev._Jonathan_Swift/Volume_5/The_Wonderful_Wonder_of_Wonders</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/The_Works_of_the_Rev._Jonathan_Swift/Volume_5/The_Wonder_of_All_the_Wonders</dc:source>
+		<!-- Vol 12: Thoughts of Various Subjects (1726) -->
+		<dc:source>https://archive.org/details/bim_eighteenth-century_the-works-of-dr-jonatha_swift-jonathan_1766_12</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/The_Works_of_the_Rev._Jonathan_Swift/Volume_10/Thoughts_on_various_Subjects</dc:source>
+		<!-- Vol 13: Hints Towards an Essay on Conversation (1713) -->
+		<dc:source>https://archive.org/details/bim_eighteenth-century_the-works-of-dr-jonatha_swift-jonathan_1766_13</dc:source>
+		<!-- Vol 14: A Treatise on Good Manners and Good Breeding (1726) -->
+		<dc:source>https://archive.org/details/bim_eighteenth-century_the-works-of-dr-jonatha_swift-jonathan_1766_14</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/The_Works_of_the_Rev._Jonathan_Swift/Volume_10/A_Treatise_on_good_Manners</dc:source>
+		<!-- Vol 16: Resolutions When I Come to be Old (1699), Thoughts on Religion (1726), Further Thoughts on Religion (1765) -->
+		<dc:source>https://archive.org/details/bim_eighteenth-century_the-works-of-dr-jonatha_swift-jonathan_1766_16</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/12252</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/The_Works_of_the_Rev._Jonathan_Swift/Volume_16/Resolutions_for_Old_Age</dc:source>
+		<!-- A Project for the Advancement of Religion and the Reformation of Manners (1709) -->
+		<dc:source>https://archive.org/details/bim_eighteenth-century_a-project-for-the-advanc_swift-jonathan_1709</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/The_Works_of_the_Rev._Jonathan_Swift/Volume_2/A_Project_for_the_Advancement_of_Religion_and_the_Reformation_of_Manners</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
 		<link href="EBOOK_WIKI_URL" rel="schema:sameAs"/>
