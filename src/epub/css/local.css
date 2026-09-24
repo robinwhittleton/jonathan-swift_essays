@@ -2,6 +2,12 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+@font-face{
+	font-family: "Standard Blackletter";
+	font-weight: 700;
+	src: url("../fonts/standard-blackletter.otf") format("opentype");
+}
+
 body [xml|lang]{
 	font-style: italic;
 }
@@ -93,3 +99,8 @@ p[epub|type~="z3998:salutation"]{
 	text-indent: 0;
 }
 /* End letters */
+
+#a-meditation-upon-a-broomstick > p > q{
+	font-family: "Standard Blackletter", serif;
+	font-style: normal;
+}
