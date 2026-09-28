@@ -59,9 +59,11 @@
 		<meta id="collection-4-entry-1" property="schema:hasPart" refines="#collection-4">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-4-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-4-entry-1">A Meditation Upon a Broomstick</meta>
-		<meta property="schema:abstract">ABSTRACT</meta>
+		<meta property="schema:abstract">A selection of Jonathan Swift’s essays.</meta>
 		<dc:description>
-			DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jonathan-swift"&gt;Jonathan Swift&lt;/a&gt; is primarily known these days for &lt;a href="https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels"&gt;&lt;i&gt;Gulliver’s Travels&lt;/i&gt;&lt;/a&gt;, but many read it at a young age and miss the political satire that Swift intended. Swift’s pen was acerbic and fast, and little in his life escaped some commentary.&lt;/p&gt;
+			&lt;p&gt;This collection selects a set of essays from Swift’s large corpus that focus on his ideas over his reporting. Many were published in magazines like &lt;i&gt;The Spectator&lt;/i&gt; or &lt;i&gt;The Intelligencer&lt;/i&gt;, some were originally letters to various members of Swift’s circle, and some were never meant for publication. Swift’s favourite subjects include the moral decay of eighteenth-century society, and the state of religion and the clergy, but it’s his satire that has stayed the course. “An Essay on Modern Education” diverts into a caricature of an army officer that can only have been written from experience, “A Meditation Upon a Broomstick” takes a seemingly astute comparison to absurd lengths, and “A Modest Proposal” lays out the case for eating Ireland’s young.&lt;/p&gt;
+			&lt;p&gt;The essays are presented here in chronological order of original composition. If no composition date is known they have been included based on their publication date.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!-- Vol 1: A Discourse Concerning the Mechanical Operation of the Spirit (1710) -->
