@@ -100,6 +100,14 @@ p[epub|type~="z3998:salutation"]{
 }
 /* End letters */
 
+/* Remove margins from letters that are the sole content of articles */
+#a-discourse-concerning-the-mechanical-operation-of-the-spirit > blockquote,
+#a-project-for-the-advancement-of-religion-and-the-reformation-of-manners > blockquote,
+#a-proposal-for-correcting-improving-and-ascertaining-the-english-tongue > blockquote,
+#a-tritical-essay-upon-the-faculties-of-the-mind > blockquote{
+	margin: 0;
+}
+
 #a-meditation-upon-a-broomstick > p > q{
 	font-family: "Standard Blackletter", serif;
 	font-style: normal;
