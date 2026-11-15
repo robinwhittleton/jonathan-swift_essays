@@ -108,6 +108,10 @@ p[epub|type~="z3998:salutation"]{
 	margin: 0;
 }
 
+#a-discourse-concerning-the-mechanical-operation-of-the-spirit hr:first-of-type + p{
+	font-style: italic;
+}
+
 #a-meditation-upon-a-broomstick > p > q{
 	font-family: "Standard Blackletter", serif;
 	font-style: normal;
